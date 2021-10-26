@@ -1,4 +1,5 @@
 layout: page
-title: "PAGE TITLE"
+title: "RBot Documentarion"
 permalink: /Rbot-Documentation/
+
 # WIP Docs
