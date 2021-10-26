@@ -1,3 +1,3 @@
 # WIP
 
-[Page 1](http://brenohenrike.github.io/RBot-Documentation)
+[Page 1](http://brenohenrike.github.io/RBotDocs)
