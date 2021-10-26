@@ -1,1 +1,6 @@
 theme: jekyll-theme-midnight
+title: Homepage
+
+layout: page
+title: "RBot Documentation"
+permalink: /RBot-Documentation/
