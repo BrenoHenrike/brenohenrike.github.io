@@ -1,6 +1,6 @@
 ---
 title: AA
-permalink: /RBotDocs
+permalink: brenohenrike.github.io/RBotDocs/1%20Intro
 ---
 
 # Script Documentation
