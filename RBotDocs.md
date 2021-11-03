@@ -3,6 +3,8 @@
 <a href="3 Timings and Handlers">3. Timings</a><br>
 <a href="4 Monsters">4. Monsters</a><br>
 <a href="5 Skills">5. Skills</a><br>
+
+## WIP
 <a href="6 Shops">6. Shops</a><br>
 <a href="7 Player">7. Player</a><br>
 <a href="8 Quests">8. Quests</a><br>

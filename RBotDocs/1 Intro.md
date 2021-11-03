@@ -1,3 +1,8 @@
+---
+title: AA
+permalink: /RBotDocs
+---
+
 # Script Documentation
 Creating a Script
 ------
