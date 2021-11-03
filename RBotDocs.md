@@ -1,6 +1,6 @@
 <a href="1 Intro">1. Intro</a><br>
-<a href="2 Options">2. Options</a><br>
-<a href="3 Timings">3. Timings</a><br>
+<a href="2 Options and Lite">2. Options</a><br>
+<a href="3 Timings and Handlers">3. Timings</a><br>
 <a href="4 Monsters">4. Monsters</a><br>
 <a href="5 Skills">5. Skills</a><br>
 <a href="6 Shops">6. Shops</a><br>
