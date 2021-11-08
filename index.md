@@ -1,3 +1,3 @@
 # WIP
 
-[RBot Documentation](http://brenohenrike.github.io/RBotDocs "Updated docs for Rodit's RBot")
+[RBot Documentation](http://brenohenrike.github.io/Rbot-Scripts/ "Updated docs for Rodit's RBot")
